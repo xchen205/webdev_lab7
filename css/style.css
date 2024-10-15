@@ -1,5 +1,5 @@
 body {
-  background-image: url("oddmercury.png");
+  background-image: url("images/oddmercury.png");
   font-family: "Courier New", normal, serif;
 }
 
@@ -12,10 +12,10 @@ p {
 }
 
 table {
-  height: 45%;
-  width: 20%;
+  text-align: center center;
   margin-left: 30%;
   margin-top: 20%;
+  border: 4;
 }
 
 td, th {
