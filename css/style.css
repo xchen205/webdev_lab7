@@ -3,7 +3,11 @@ body {
 }
 
 h1 {
-  position: center;
+  position: top center;
+}
+
+p {
+  position: top center;
 }
 
 table {
