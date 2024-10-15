@@ -3,21 +3,21 @@ body {
 }
 
 h1 {
-  position: top center;
+  position: center;
 }
 
 p {
-  position: top center;
+  position: center;
 }
 
 table {
-  margin-left: 25%;
+  height: 45%;
+  width: 20%;
+  margin-left: 30%;
   margin-top: 20%;
 }
 
 td, th {
-  height: 4%;
-  width: 10%;
 	border: 2px darkblue groove;
 }
   
