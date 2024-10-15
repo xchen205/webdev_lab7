@@ -3,11 +3,13 @@ body {
 }
 
 table {
-  margin-left: 50%;
-  margin-top: 50%;
+  margin-left: 25%;
+  margin-top: 20%;
 }
 
 td, th {
+  height: 4%;
+  width: 10%
 	border: 2px darkblue groove;
 }
   
