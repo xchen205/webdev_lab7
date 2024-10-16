@@ -4,17 +4,17 @@ body {
 }
 
 #intro-text {
-  text-align: top center;
+  text-align: center;
   color: white;
 }
 
 h1 {
-  text-shadow: 5px, 5px, 5px, rgba(0, 0, 0, 0.5);
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
 table {
   margin: auto;
-  border: 4;
+  border: 4px;
 }
 
 td, th {
