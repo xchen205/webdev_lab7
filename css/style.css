@@ -32,3 +32,15 @@ img {
   height: 300px;
   object-fit: cover;
 }
+
+#row1 td {
+  font-size: 2em;
+}
+
+#row8 td {
+  color: yellow;
+}
+
+#row9 td {
+  color: red;
+}
