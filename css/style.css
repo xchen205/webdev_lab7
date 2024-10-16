@@ -19,7 +19,15 @@ table {
 }
 
 td, th {
-	border: 2px darkblue groove;
+	border: 3px darkblue groove;
 	padding: 5px;
 }
+
+p, td, th {
+  color: white;
+}
   
+img {
+  max-width: 200px;
+  max-height: 2--px;
+}
